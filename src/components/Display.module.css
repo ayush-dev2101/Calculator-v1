@@ -1,0 +1,8 @@
+.display {
+  margin: 14px;
+  margin-left: 15px;
+  height: 100px;
+  width: 350px;
+  font-size: 40px;
+  /* background: linear-gradient(to right, white, grey); */
+}
