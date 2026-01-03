@@ -4,5 +4,6 @@
   height: 100px;
   width: 350px;
   font-size: 40px;
+  border-radius: 15px;
   /* background: linear-gradient(to right, white, grey); */
 }

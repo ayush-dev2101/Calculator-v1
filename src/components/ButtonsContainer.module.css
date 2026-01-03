@@ -9,5 +9,10 @@
   height: 87px;
   margin: 7px;
   margin-left: 25px;
+  border-radius: 15px;
   background: linear-gradient(to right, white, grey);
+  font-size: 40px;
+  font-weight: 200;
+
+  
 }
